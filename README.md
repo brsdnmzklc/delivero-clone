@@ -2,7 +2,7 @@ Sure, here is the README file summary for Deliveroo Clone project in English:
 
 # Deliveroo Clone
 
-This project is a clone of the Deliveroo app. The technologies used include React Native, Sanity React Navigation, NativeWind, and Redux.
+This project is a clone of the Deliveroo app. The technologies used include React Native, Sanity ,React Navigation, NativeWind, and Redux.
 
 ## How to Run
 
