@@ -1,4 +1,4 @@
-Sure, here is the README file summary for Deliveroo Clone project in English:
+
 
 # Deliveroo Clone
 
